@@ -1,5 +1,5 @@
 import random
-
+print("Welcome to the guessing game!")
 answer = random.randint(1, 100)
 guess = int(input("Guess a number (1-100): "))
 
